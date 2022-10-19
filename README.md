@@ -6,7 +6,7 @@ This project was initialized with [Create React App](https://github.com/facebook
 
 We want you to use this repo as a starting point to build a single page application using React that displays the included mock listing data in a vertical list where each listing looks like the card in [this Figma file](https://www.figma.com/file/tN29n4dzig6pHz9uNIygcD/Frontend-Skills-Assessment?node-id=0%3A1). The password for file access is `best_of_luck!`.
 
-Your result doesn’t have to be pixel-perfect, but we are interested in seeing how closely and cleanly you can recreate the design. This kind of ask is something you would find yourself doing in this role. If you don’t have experience navigating Figma (all good!), we have also attached a screenshot of the design, but the Figma version will let you inspect elements & take a closer look.
+Your result doesn’t have to be pixel-perfect, but we are interested in seeing how closely and cleanly you can recreate the design. This kind of ask is something you would find yourself doing in this role.
 
 Create React App sets up Jest and React Testing Library for you if you would like to write unit tests, but we are not asking for unit tests.
 

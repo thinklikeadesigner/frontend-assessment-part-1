@@ -24,8 +24,6 @@ export interface Listing {
   imageURL: string
   listingLabels: string[]
   name: string
-  tableHeader: string | null
-  tableSubheader: string | null
   unitTableData: UnitTableRow[]
 }
 
